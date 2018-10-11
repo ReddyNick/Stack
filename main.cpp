@@ -1,13 +1,3 @@
-// 1) todo struct stack -
-// 2) todo stackctor -
-// 3) todo stackdtor -
-// 4) todo push -
-// 5) todo pop -
-// 6) todo resize (hysteresis) -
-
-
-
-
 
 #include <iostream>
 #include "assert.h"
