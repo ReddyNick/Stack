@@ -1,6 +1,3 @@
-//
-// Created by nick on 10.10.18.
-//
 
 #ifndef MYSTACK_H
 #define MYSTACK_H

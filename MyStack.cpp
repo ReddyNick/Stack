@@ -1,6 +1,4 @@
-//
-// Created by nick on 10.10.18.
-//
+
 #include "MyStack.h"
 #include <iostream>
 #include "stdlib.h"
