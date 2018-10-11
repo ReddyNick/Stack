@@ -41,7 +41,7 @@ namespace Stlib
      * capacity *= ratiomore
      *
      * [in] bool how = false -> make less
-     * if size <= ratioless*capacity than
+     * if size <= ratioless*capacity then
      * capacity /= ratiomore
      * */
 
